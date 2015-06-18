@@ -1,7 +1,7 @@
 {
   "name": "round-precision",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Round a number to a specified decimal precision",
   "license": "MIT",
   "repository": "bendrucker/round-precision",
