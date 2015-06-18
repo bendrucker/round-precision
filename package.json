@@ -1,0 +1,37 @@
+{
+  "name": "round-precision",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Round a number to a specified decimal precision",
+  "license": "MIT",
+  "repository": "bendrucker/round-precision",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "number",
+    "round",
+    "decimal",
+    "precision"
+  ],
+  "dependencies": {
+    "is-finite": "~1.0.1",
+    "is-integer": "~1.0.4"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
