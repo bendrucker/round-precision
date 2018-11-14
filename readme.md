@@ -1,4 +1,4 @@
-# round-precision [![Build Status](https://travis-ci.org/bendrucker/round-precision.svg?branch=master)](https://travis-ci.org/bendrucker/round-precision)
+# round-precision [![Build Status](https://travis-ci.org/bendrucker/round-precision.svg?branch=master)](https://travis-ci.org/bendrucker/round-precision) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/round-precision.svg)](https://greenkeeper.io/)
 
 > Round a number to a specified decimal precision
 
